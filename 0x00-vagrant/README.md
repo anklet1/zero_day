@@ -1,1 +1,1 @@
-ubuntu task
+ubuntu
